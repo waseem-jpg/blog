@@ -1,4 +1,4 @@
-baseURL = 'https://waseem-jpg.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'waseem@world'
 theme = "hugo-theme-console"
